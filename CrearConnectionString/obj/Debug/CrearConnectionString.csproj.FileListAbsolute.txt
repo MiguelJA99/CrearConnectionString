@@ -1,0 +1,2 @@
+C:\Users\JAMX-LP-055\source\repos\CrearConnectionString\CrearConnectionString\obj\Debug\CrearConnectionString.csproj.AssemblyReference.cache
+C:\Users\JAMX-LP-055\source\repos\CrearConnectionString\CrearConnectionString\obj\Debug\CrearConnectionString.csproj.CoreCompileInputs.cache
